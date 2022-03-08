@@ -1,4 +1,4 @@
-# Jogo de Xadrez PT-BR
+# Jogo de Xadrez PT-BR - Em desenvolvimento
 
 Sumário:
 
@@ -15,7 +15,7 @@ O mesmo foi seguido em vídeo, feito pelo professor Nélio Alves, que por sua ve
 ## 1.1 - Como iniciar o jogo
 Para iniciar o jogo em sua máquina basta abrir um prompt de comando de sua escolha, porém ele deve possuir leitura de cores, faça o caminho até a pasta \bin e execute o comando: java application/Program
 
-# Chess Game EN-US
+# Chess Game EN-US - In progress
 
 Summary:
 
